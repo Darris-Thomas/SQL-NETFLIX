@@ -138,7 +138,7 @@ order by count desc;
 
 **Objective:** Count the number of content items in each genre.
 
-### 10.Find each year and the average numbers of content release in India on netflix, return top 5 year with highest avg content release!
+### 10. Find each year and the average numbers of content release in India on netflix, return top 5 year with highest avg content release!
 
 ```sql
 select 
